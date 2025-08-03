@@ -9,6 +9,7 @@ Case-sensitive encryption (handles both uppercase and lowercase)
 Preservation of non-alphabetic characters
 Simple & user-friendly interface in the terminal
 Both encryption and decryption handled through reusable functions
+
 🛠️ Technologies Used:
 
 Python (Core Programming)
@@ -16,6 +17,7 @@ String manipulation
 Conditional logic
 ASCII character handling (ord() and chr() functions)
 Modular function design
+
 💡 Key Learnings:
 
 Working with classic cryptographic algorithms
